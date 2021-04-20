@@ -46,6 +46,10 @@ header {
     height: auto;
 }
 
+.logo img:hover {
+    cursor:pointer;
+}
+
 .life-text {
     position: absolute;
     width: 600px;
