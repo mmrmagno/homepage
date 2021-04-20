@@ -57,6 +57,8 @@ header {
     height: 300px;
     margin: 20% 30%;
     text-align: center;
+    color: #fff;
+    font-family: sans-serif;
 }
 
 .life-text h1 {
